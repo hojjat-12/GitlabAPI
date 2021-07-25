@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=UfOxcrxhC0s (first 20 minutes is enough for run 
 
 Another method that can help to run project is in this link : https://spring.io/guides/gs/spring-boot/
 
+To see my source code go to src directory.
+
 This project runs on port 8181 and i use Postman for test my API. We have 2 scenario in this project.
 
 scenario 1:
